@@ -4,7 +4,7 @@
     "mapUnlockThreshold": 0,
     "useLocalSessions": false,
     "startRoom": "cemetery",
-    "videoDisplayName": "Fellow Satanist",
+    "videoDisplayName": "Satanist",
     "moderation": {
         "moderatorEmails": [
             "vhq@thesatanictemple.com"
@@ -69,11 +69,6 @@
                 "display": false,
                 "text": "📍 {count} exploring"
             },
-            "additionalStats": [
-                {
-                    "text": "🎦 {count} hatewatching",
-                    "match": ["frontParlor"]
-                },
                 {
                     "text": "📕 {count} reading",
                     "match": ["library"]
