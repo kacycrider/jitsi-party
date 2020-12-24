@@ -9,7 +9,7 @@
             "image": "https://tstvhq.s3.amazonaws.com/events/thomas.jpg"
         },
         {
-            "name": "The Satanic Chef holiday party!",
+            "name": "The Satanic Chef's Holiday Party!",
             "description": "Living deliciously in the kitchen with TST Salem's Adam Dodge.",
             "room": "kitchen",
             "start": "2020-12-24T21:00:00-05:00",
@@ -17,8 +17,8 @@
             "image": "https://tstvhq.s3.amazonaws.com/events/adam.jpg" 
         },
         {
-            "name": "Lucien Greave's Christmas Miracle",
-            "description": "Join Lucien Greaves as he does a live retelling of some of the age old Christian holiday stories!",
+            "name": "Lucien's Christmas Miracle",
+            "description": "Join Lucien Greaves as he retells some of age old Christian stories!",
             "room": "backParlor",
             "start": "2020-12-24T23:00:00-05:00",
             "end": "2020-12-25T01:00:00-05:00",
